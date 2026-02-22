@@ -1,19 +1,25 @@
-# Data Analytics Assignment
+Data Analytics Assignments
 
-This repository contains my Data Analytics Assignment submitted as part of my learning practice.
+This repository contains my assignments completed as part of my Data Analytics course.
 
-The assignment focuses on:
-- Understanding core data concepts
-- Identifying types of data
-- Mapping business questions to analytics types
-- Exploring an industry use-case (Amazon)
-- Applying analytical thinking to business scenarios
+Assignment 1
 
-Through this work, I practiced structuring information, interpreting problem statements, and presenting insights in a clear way.
+Covers basic analytics concepts such as:
 
-Tools Used:
-- MS Word
-- GitHub
+- Types of data
+- Analytics mapping
+- Industry use-cases
+- Analytical thinking
 
-Author:
-Praveena N
+Assignment 2
+
+Covers database and system concepts such as:
+
+- DBMS architecture
+- CAP theorem
+- ACID properties
+- Transactions, locking, indexing
+
+Submitted for learning and practice.
+
+— Praveena N
